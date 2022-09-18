@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\repos\GithubTraining\GithubTraining\main.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  GithubTraining.vcxproj -> C:\repos\GithubTraining\Debug\GithubTraining.exe
